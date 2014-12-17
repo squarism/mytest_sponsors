@@ -4,7 +4,7 @@ The Mytest gem needs your help!  There's been an average of 6 open issues since 
 
 Thank you to all the sponsors of @tenderlove's [mytest](https://github.com/tenderlove/mytest) gem!
 
-![sponsor](images/200x100.gif)
+![sponsor](images/nvisium.png)
 
 ![sponsor](images/350x150.gif)
 ![sponsor](images/200x100.gif)
